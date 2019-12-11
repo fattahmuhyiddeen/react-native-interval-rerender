@@ -1,0 +1,23 @@
+{
+  "name": "react-native-interval-rerender",
+  "version": "1.0.0",
+  "description": "Rerender React Native component every 'n' seconds/minutes in a very easy way",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fattahmuhyiddeen/react-native-interval-rerender.git"
+  },
+  "keywords": [
+    "rerender",
+    "refresh"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fattahmuhyiddeen/react-native-interval-rerender/issues"
+  },
+  "homepage": "https://github.com/fattahmuhyiddeen/react-native-interval-rerender#readme"
+}
