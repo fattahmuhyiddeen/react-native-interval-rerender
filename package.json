@@ -1,6 +1,6 @@
 {
   "name": "react-native-interval-rerender",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rerender React Native component every 'n' seconds/minutes in a very easy way",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
   },
   "keywords": [
     "rerender",
-    "refresh"
+    "refresh",
+    "interval"
   ],
   "author": "",
   "license": "MIT",
